@@ -1,0 +1,43 @@
+﻿Table 1. Characteristics of the sample obtained from General Social Survey  (sample size = 20130),  
+feelings_life (mean ± SD),8.094 ± 1.256039
+age (mean ± SD),52.09 ± 17.72667
+*hh_size (mean ± SD),2.351 ± 1.643198
+**pop_center,
+    Larger urban population centres (CMA/CA),15575
+    Prince Edward Island  ,688
+    Rural areas and small population centres (non CMA/CA),3867
+sex,
+    Female,10956
+    Male,9174
+religion_participation,
+    Not at all ,9716
+    Once or twice a year,3116
+    At least 3 times a year,2122
+    At least once a month,1839
+    At least once a week,3337
+marital_status,
+    Divorced,1727
+    Living common-law,2049
+    Married,9285
+    Separated,622
+"    Single, never married",4607
+    Widowed,1834
+    NA's,6
+education,
+    High school diploma or a high school equivalency certificate,4761
+"    College, CEGEP or other non-university certificate or di...",4484
+    Less than high school diploma or its equivalent,2942
+"    Bachelor's degree (e.g. B.A., B.Sc., LL.B.)",3707
+"    University certificate, diploma or degree above the bach...",1808
+    (Other),2175
+    NA's,253
+province,
+    Ontario,5467
+    Quebec ,3769
+    British Columbia,2461
+    Alberta,1688
+    Nova Scotia,1399
+    New Brunswick,1299
+    (Other),4047
+average_hours_worked(Character),20130
+income_family(Character),20130
